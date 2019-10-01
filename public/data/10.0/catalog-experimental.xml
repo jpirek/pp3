@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://localhost/checkout/pp3/public/data/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="18/27/09/07/05/2019">
+  <module codenamebase="lib-miglayout-NB80" distribution="https://repo1.maven.org/maven2/com/miglayout/lib-miglayout-NB80/5.1/lib-miglayout-NB80-5.1.nbm" downloadsize="1024" targetcluster="nbms" moduleauthor="jan.pirek@gmail.com">
+    <manifest OpenIDE-Module="lib-miglayout-NB80" OpenIDE-Module-Name="mig layout edited" OpenIDE-Module-Specification-Version="5.1" OpenIDE-Module-Long-Description="dsdsdsdsd"/>
+  </module>
+  <module codenamebase="lib-miglayout-NB80" distribution="http://localhost/checkout/5.1/lib-miglayout-NB80-5.1.nbm" downloadsize="1024" targetcluster="nbms" moduleauthor="jan.pirek@gmail.com">
+    <manifest OpenIDE-Module="lib-miglayout-NB80" OpenIDE-Module-Name="Gradle image builder plugin XXX" OpenIDE-Module-Specification-Version="5.1" OpenIDE-Module-Long-Description="pecnamspadla suydgu sgfduy gduy gsduyfg uysdgf&#10;&#10;iu gfuyd gusdgu gfuysdgfgy su gdfugfuy gsdfugu sgdfu gsufg"/>
+  </module>
+  <module codenamebase="lib-miglayout-NB80" distribution="http://localhost/checkout/5.2/lib-miglayout-NB80-5.2.nbm" downloadsize="1024" targetcluster="nbms" moduleauthor="jan.pirek@gmail.com">
+    <manifest OpenIDE-Module="lib-miglayout-NB80" OpenIDE-Module-Name="Gradle image builder plugin XXX" OpenIDE-Module-Specification-Version="5.2" OpenIDE-Module-Long-Description="pecnamspadla suydgu sgfduy gduy gsduyfg uysdgf&#10;&#10;iu gfuyd gusdgu gfuysdgfgy su gdfugfuy gsdfugu sgdfu gsufg"/>
+  </module>
+  <module codenamebase="lib-miglayout-NB80" distribution="http://localhost/checkout/5.2/lib-miglayout-NB80-5.2.nbm" downloadsize="1024" targetcluster="nbms" moduleauthor="jan.pirek@gmail.com">
+    <manifest OpenIDE-Module="lib-miglayout-NB80" OpenIDE-Module-Name="XXXx" OpenIDE-Module-Specification-Version="5.2" OpenIDE-Module-Long-Description="xxx"/>
+  </module>
+</module_updates>

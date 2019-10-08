@@ -10,7 +10,6 @@ nbproject
 composer.lock
 vendor
 composer.phar
-public/css
 module/Application/config
 config/autoload
 public/data

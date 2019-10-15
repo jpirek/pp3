@@ -11,6 +11,10 @@ body {
   color: white;
 }
 
+.navbar-nav {
+  margin: 5px;
+}
+
 .navbar-fixed-top {
   z-index: 1;
 }
